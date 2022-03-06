@@ -37,6 +37,9 @@ Explore [the docs](https://cooklang.org/cli/help/), which describe how to use Co
 
 Add aisle configuration information to the `config/aisle.conf` file to tailor your shopping list experience.
 
-
+## TODO：设计
+- [ ] 支持中文（目前的cooklang只支持Ingredients使用中文，而Steps中使用中文会把中文ingredient的数量吞掉）
+- [ ] 目前的菜谱只是静态的导出shopping list，以及静态的step。可以考虑针对于做菜弄一个流水线，而每个step都是流水线中的一个步骤。
+- [ ] 流水线的步骤可以并行
 
 
