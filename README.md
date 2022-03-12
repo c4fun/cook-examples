@@ -46,6 +46,7 @@ Add aisle configuration information to the `config/aisle.conf` file to tailor yo
 - [ ] Cookbook + Pipeline还可以做协作功能，有助于在几个人一起做菜的时候进行协作。
 - [ ] 协作的收费模式：两个人的时候免费，大于两个人收费。
 - [ ] 加上登录功能的说明
+- [ ] 解决登录失败的问题3-login-failed
 
 ### 卖点
 
