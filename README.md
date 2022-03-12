@@ -45,6 +45,7 @@ Add aisle configuration information to the `config/aisle.conf` file to tailor yo
 - [ ] Pipeline最大的好处是可以定义下一步，而且可以自动计时。其实最大的好处还在于以后如果炒菜自动化了的话，还可以进行定义（虽说这一步比较遥远）
 - [ ] Cookbook + Pipeline还可以做协作功能，有助于在几个人一起做菜的时候进行协作。
 - [ ] 协作的收费模式：两个人的时候免费，大于两个人收费。
+- [ ] 加上登录功能的说明
 
 ### 卖点
 
